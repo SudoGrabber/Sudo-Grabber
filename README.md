@@ -34,7 +34,7 @@ This software was made for personal **education** and **sandbox testing** purpos
 
 ## <a id="setup"></a> 📁 〢 Setting up
 1. Install [Python](https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe)
-2. Download [Xeno Grabber Files]
+2. Download [Sudo Grabber Files]
 3. Install all requirements [install.bat]
 4. Click on start.bat [start.bat]
 5. Complete the configuration
