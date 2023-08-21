@@ -111,12 +111,6 @@ v1.0 ⋮ 2023-26-05
 - Removed old Anti-VM method
 ```
 
-## <a id="preview"></a>👁️ 〢 Preview
-![](https://media.discordapp.net/attachments/1142235346340413523/1142249158615498844/image.png)
-
-![](https://media.discordapp.net/attachments/1142206662321639464/1142249312957501500/image.png?)
-![](https://media.discordapp.net/attachments/1142206662321639464/1142249498656129065/image.png)z
-
 
 ### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
 - WASP Stealer
