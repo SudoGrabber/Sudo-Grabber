@@ -1,10 +1,10 @@
 
 <h1 align="center">
-Xeno Grabber
+Sudo Grabber
 </h1>
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/1142206662321639464/1142212673711382538/logo-white-on-black-5c3f5aaa462e57.png?width=902&height=644" width="400"></img>
+<img src="https://cdn.discordapp.com/attachments/1138442762816081932/1143093724658815046/eY3jEtB.png"></img>
   </kbd>
 </p>
 
